@@ -1,0 +1,9 @@
+{
+  "id": "memory_manager",
+  "name": "Memory Engine",
+  "description": "Enables the assistant to retain user preferences, project facts, and key information across sessions.",
+  "category": "core",
+  "version": "1.0.0",
+  "icon": "Brain",
+  "enabled": true
+}

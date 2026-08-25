@@ -1,0 +1,9 @@
+{
+  "id": "google_workspace",
+  "name": "Google Workspace",
+  "description": "Integration with Gmail, Google Calendar, and Google Drive for personal productivity.",
+  "category": "productivity",
+  "version": "1.0.0",
+  "icon": "Mail",
+  "enabled": true
+}

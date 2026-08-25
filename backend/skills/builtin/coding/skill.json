@@ -1,0 +1,9 @@
+{
+  "id": "coding",
+  "name": "Coding & File System",
+  "description": "Allows the assistant to inspect, create, edit files and execute terminal operations safely.",
+  "category": "developer",
+  "version": "1.0.0",
+  "icon": "Code",
+  "enabled": true
+}

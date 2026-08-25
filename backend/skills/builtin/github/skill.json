@@ -1,0 +1,9 @@
+{
+  "id": "github",
+  "name": "GitHub Integration",
+  "description": "Enables repository browsing, code inspection, issue and pull request management on GitHub.",
+  "category": "developer",
+  "version": "1.0.0",
+  "icon": "Github",
+  "enabled": true
+}

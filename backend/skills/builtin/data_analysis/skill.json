@@ -1,0 +1,9 @@
+{
+  "id": "data_analysis",
+  "name": "Data Analysis & Math",
+  "description": "Calculates mathematical formulas, parses structured JSON/CSV data, and calculates statistics.",
+  "category": "analysis",
+  "version": "1.0.0",
+  "icon": "BarChart",
+  "enabled": true
+}

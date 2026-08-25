@@ -1,0 +1,9 @@
+{
+  "id": "web_research",
+  "name": "Web Research",
+  "description": "Enables the assistant to search the web, explore documentation, and extract page contents.",
+  "category": "research",
+  "version": "1.0.0",
+  "icon": "Globe",
+  "enabled": true
+}
